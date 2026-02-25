@@ -153,7 +153,7 @@ Cada pregunta sigue este patrón:
 
 ### Blogs
 
-- [Omar Valdez](https://soyomarvaldezg.substack.com/)
+- [Omar Valdez](https://soyomarvaldezg.xyz/)
 - [El Ingeniero Consciente x Elias Velazquez](https://elingenieroconsciente.substack.com/)
 - [The Latam Engineer x Antony Henao](https://thelatamengineer.substack.com/)
 
